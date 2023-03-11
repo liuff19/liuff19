@@ -20,3 +20,12 @@ Here are some ideas to get you started:
 + 🏀 I am a big fan of the **Golden State Warriors**!
 + 🌱 I am also keen on **Traveling**!
 + 📫 Contact me: [**Email**](mailto:liuff19@mails.tsinghua.edu.cn)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuff19&layout=compact&theme=aura)
+
+<!-- ![Fangfu's GitHub stats](https://github-readme-stats.vercel.app/api?username=liuff19&show_icons=true&theme=aura) -->
+
+## <center> Visitor Count
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/liuff19/count.svg" />
+</p>
