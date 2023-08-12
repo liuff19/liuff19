@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 + 💡 I'm profoundly interested in **3D Computer Vision** (e.g., NeRF) and **Causality** (e.g., causal discovery and causality in vision).
 + 🏀 I am a big fan of the **Golden State Warriors**!
 + 🌱 I am also keen on **Traveling**, **Basketball**, and **Go**!
-+ 📫 Contact me: [**Email**](mailto:liuff19@mails.tsinghua.edu.cn)
++ 📫 Contact me: [**Email**](mailto:fangfu19@gmail.com)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liuff19&layout=compact&theme=aura)
 
