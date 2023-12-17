@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-+ 😄 My name is Fangfu Liu, and I'm a one-year PhD student at [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
++ 😄 My name is Fangfu Liu, and I'm a first-year PhD student at [Department of Electronic Engineering](https://www.ee.tsinghua.edu.cn/en/), [Tsinghua University](https://www.tsinghua.edu.cn/en/). 
 + 💡 I'm profoundly interested in **3D Computer Vision** (e.g., NeRF, 3D AIGC) and **Causality** (e.g., causal discovery, causality in vision).
 + 🏀 I am a big fan of the **Golden State Warriors**!
 + 🌱 I am also keen on **Traveling**, **Basketball**, and **Go**!
